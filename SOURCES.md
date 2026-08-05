@@ -21,6 +21,16 @@ This document records the sources used for our presentation:
 - Link: https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant/
 - Relevance: Describes how Copilot Agent can complete multistep coding tasks, propose changes, run commands, and work with users.
 
+### 3. Teaching with AI: A Systematic Review
+
+- Authors: Said Elnaffar, Farzad Rashidi, and Abedallah Zaid Abualkishik
+- Published: October 2025
+- Type: Research preprint
+- Link: https://arxiv.org/abs/2510.03884
+- Relevance: Reviews research about AI in programming education. It identifies possible benefits such as personalized feedback and learning support, while also discussing overreliance, superficial learning, AI errors, and academic-integrity concerns.
+- Note: This source is a preprint and should be described as preliminary research.
+
 ## Additional Sources
 
 More reliable sources about the educational benefits, limitations, security risks, and overdependence concerns will be added during the research stage.
+
