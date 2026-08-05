@@ -30,6 +30,14 @@ This document records the sources used for our presentation:
 - Relevance: Reviews research about AI in programming education. It identifies possible benefits such as personalized feedback and learning support, while also discussing overreliance, superficial learning, AI errors, and academic-integrity concerns.
 - Note: This source is a preprint and should be described as preliminary research.
 
+### 4. OECD Digital Education Outlook 2026
+
+- Organization: Organisation for Economic Co-operation and Development (OECD)
+- Published: January 19, 2026
+- Type: International education research report
+- Link: https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html
+- Relevance: Explains that generative AI can support learning when it follows clear teaching principles. It also warns that using AI to complete tasks may improve immediate performance without producing genuine learning.
+
 ## Additional Sources
 
 More reliable sources about the educational benefits, limitations, security risks, and overdependence concerns will be added during the research stage.
