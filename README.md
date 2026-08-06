@@ -36,7 +36,7 @@ This project considers how students and programmers can benefit from AI while ma
 
 ## YouTube Video
 
-The public YouTube video link will be added after the group completes the recording.
+[Watch our AI Coding Agents presentation on YouTube](https://youtu.be/Xo9ICDxoFQ0)
 
 ## Final Discussion Question
 
